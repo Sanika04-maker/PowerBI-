@@ -3,20 +3,23 @@ This project provides an in-depth financial analysis using Power BI to visualize
 
 **Project File**
 
-*File Name:Financial_Analysis_PowerBI_Project.pbix
+*File Name: Financial_Analysis_PowerBI_Project.pbix*
 
-*File Type:Power BI Desktop File(.pbix)
+*File Type: Power BI Desktop File(.pbix)
 
 **Key Features**
-Data Visualization: Interactive dashboards showcasing financial metrics like revenue, expenses, profit margins, and more.
-Performance Tracking: Visuals and metrics to track year-over-year performance, trend analysis, and key financial ratios.
-Insights and Highlights: Identify top-performing segments, cost-saving opportunities, and revenue growth areas.
+*Data Visualization: Interactive dashboards showcasing financial metrics like revenue, expenses, profit margins, and more.
+
+*Performance Tracking: Visuals and metrics to track year-over-year performance, trend analysis, and key financial ratios.
+
+*Insights and Highlights: Identify top-performing segments, cost-saving opportunities, and revenue growth areas.
 
 **Requirements**
 Software: Power BI Desktop (latest version recommended)
 Data Sources: Financial_data_Countries.csv
 
-**Snap of project** 
+**Snap of project**
+
 
 
 **Usage Instructions**
