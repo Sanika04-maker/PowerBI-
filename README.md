@@ -2,8 +2,10 @@
 This project provides an in-depth financial analysis using Power BI to visualize key financial metrics and trends. The report contains various dashboards and visuals to help understand sales trend of different products of 5 countries and make data-driven decisions.
 
 **Project File**
-*File Name: Financial_Analysis_PowerBI_Project.pbix
-*File Type: Power BI Desktop File (.pbix)
+
+*File Name:Financial_Analysis_PowerBI_Project.pbix
+
+*File Type:Power BI Desktop File(.pbix)
 
 **Key Features**
 Data Visualization: Interactive dashboards showcasing financial metrics like revenue, expenses, profit margins, and more.
