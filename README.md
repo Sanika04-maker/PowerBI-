@@ -1,3 +1,5 @@
+**README: Financial Analysis PowerBI Report Dashboard**
+
 **Project Overview:**
 
 This project provides an in-depth financial analysis using Power BI to visualize key financial metrics and trends. The report contains various dashboards and visuals to help understand sales trend of different products of 5 countries and make data-driven decisions.
